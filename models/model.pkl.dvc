@@ -1,5 +1,5 @@
 outs:
-- md5: c4f850c2f0a3a9c36b1edd5805647817
-  size: 1412
+- md5: 81d17c2e14b6cbb04d79889b686fd270
+  size: 622203
   path: model.pkl
   isexec: true
