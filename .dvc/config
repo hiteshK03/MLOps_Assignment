@@ -1,0 +1,6 @@
+[cache]
+    dir = ../../external_cache
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://mlopsassign/datastore
